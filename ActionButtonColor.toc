@@ -1,0 +1,10 @@
+## Interface: 80000
+
+## Title: Action Button Color
+## Notes: Simple addon for coloring action buttons that are out of range or resources.
+## Author: Scotepi
+## X-Website: https://github.com/scotepi/wow-actionbuttoncolor
+## X-License: GNU General Public License version 3 (GPLv3)
+
+
+ActionButtonColor.lua
